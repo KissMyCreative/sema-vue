@@ -1,0 +1,15 @@
+{
+  "name": "vexil-vue",
+  "version": "0.1.0",
+  "description": "VueJS client for Vexil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/KissMyCreative/vexil-vue"
+  },
+  "author": "Jason Fowler <code@kissmycreative.com>",
+  "license": "MIT"
+}
